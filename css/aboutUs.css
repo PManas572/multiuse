@@ -5,7 +5,10 @@ body {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
+	
 }
+
+
 ul {
      list-style-type: none;
      margin-left: 214px;
@@ -28,8 +31,12 @@ h2{
 	font-weight: italic;
 	padding-top: 23px;
     padding-bottom: 21px;
-	text-align: center;
+	text-align: left;
 	color:white;
+    padding-left: 87px;
+    margin-right: 0px;
+	    margin-bottom: -19px;
+
 
 }
 .centered {
@@ -87,10 +94,27 @@ li a:hover{
 color:black;
 
 }
-#class{
+#class
+{
  padding: 0;
 }
 
+p
+{
+	
+    background-color: #8860D0;
+    font-weight: italic;
+    padding-top: 23px;
+    padding-bottom: 324px;
+    text-align: center;
+    color: white;
+    padding-left: 364px;
+    margin-right: 0px;
+    font-size: 21px;
+    margin-top: 10px;
+	padding-right: 68px;
+
+}
 
 
 footer {
